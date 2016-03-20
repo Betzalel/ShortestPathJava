@@ -1,0 +1,18 @@
+Feature List
+------------
+
+Contains a list of features that will be implemented.
+Add ones that you think should be included.
+
+The user can:
+	- select a city as a starting location
+	- select a city as an ending location
+	- add a city that is not listed
+	  o permanently add city by writing it to file
+	- remove a city that is listed
+	  o permanently remove city by removing it from file (optional)
+
+The user can not:
+	- select cities from the globe or other visual aid
+	- select the same city as starting and ending location
+	

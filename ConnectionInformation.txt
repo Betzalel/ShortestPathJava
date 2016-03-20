@@ -1,0 +1,26 @@
+Cairo,Cape Town
+Cairo,Lagos
+Lagos,Cape Town
+Lagos,Birmingham
+Cape Town,Luanda
+Cape Town,Mumbai
+Cape Town,Perth
+Luanda,Houston
+Mumbai,Birmingham
+Mumbai,Tokyo
+Tokyo,Los Angeles
+Tokyo,Lima
+Tokyo,Hobart
+Hobart,Auckland
+Birmingham,Chicago
+Birmingham,Paris
+Paris,Cayenne
+Los Angeles,Auckland
+Los Angeles,San Antonio
+San Antonio,Chicago
+San Antonio,Houston
+Chicago,Miami
+Miami,Guayaquil
+Miami,Buenos Aires
+Lima,Buenos Aires
+Cayenne,Rio de Janeiro

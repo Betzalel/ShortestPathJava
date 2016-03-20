@@ -1,0 +1,18 @@
+ToDo List for Project
+---------------------
+
+Djikstra's Algorithm
+	- Need to create the class that will conduct the algorithm
+GUI Design
+	- Need to meet and figure out how we want the GUI to look like
+	- I would like a sphere with the cities on it like a globe
+		o not sure how hard that will be...
+GUI Implementation
+	- Once designed, we need to make it happen
+UML Diagrams
+	- UML for all classes and groups of classes
+JavaDocs
+	- Each class must have a JavaDoc associated with it.
+	- I will JavaDoc the classes I have added.
+	- Don't worry about JavaDocing test classes as these will not be kept.
+
